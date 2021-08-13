@@ -30,4 +30,4 @@ client.on("ready", () => {
     console.log("Ready!");
 });
 
-client.login("ODc1NzA1NTg0NDI5NzAzMTk5.YRZaYQ.GY-AsUcqI5BnxbfLU3MWpzNcOig");
+client.login("YOUR_TOKEN_HERE");
